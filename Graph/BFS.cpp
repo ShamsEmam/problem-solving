@@ -51,7 +51,7 @@ void solve() {
         }
     }
     BFS(start.first, start.second);
-    cout << cnt << '\n';
+    cout << cnt << "\n";
 }
 
 
